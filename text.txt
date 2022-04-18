@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/hiranya911/8bac5d089b760988c9562ff2327ceade/raw/d82884aa9a871a6f33693b7d29b0bd104ae73620/proxy_config.go
