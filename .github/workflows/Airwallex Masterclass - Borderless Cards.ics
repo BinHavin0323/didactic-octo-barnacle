@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Livestorm SAS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220319T065700Z
+UID:0390c443-d0f4-4a4f-acb4-50a80ab5628b
+DTSTART:20220324T013000Z
+DTEND:20220324T021500Z
+DESCRIPTION:Borderless Cards are here to make managing employee and busines
+ s expenses as effortless and affordable as possible\, saving one company 4
+ 0 hours a month on admin and $4.5k annually.Join Anthony Musu...\nTo join 
+ the live event\, just click on this link https://app.livestorm.co/p/1213de
+ e0-e90e-4893-9196-5cbf906e85ff/live?email=allincludedallexclusivellc%40pro
+ tonmail.com&key=facd9ee3c07a6d3e145d7d&s=77bd8062-b582-440b-942d-01bd61e3e
+ 167. This access link is personal\, so please don’t share it with anyone
+ . For an optimal experience\, we recommend using Google Chrome\, Firefox o
+ r Opera.
+SUMMARY:Airwallex Masterclass - Borderless Cards
+URL:https://app.livestorm.co/p/1213dee0-e90e-4893-9196-5cbf906e85ff/live?em
+ ail=allincludedallexclusivellc%40protonmail.com&key=facd9ee3c07a6d3e145d7d
+ &s=77bd8062-b582-440b-942d-01bd61e3e167
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Borderless Cards are here to make managing employee and busines
+ s expenses as effortless and affordable as possible\, saving one company 4
+ 0 hours a month on admin and $4.5k annually.Join Anthony Musu...\nTo join 
+ the live event\, just click on this link https://app.livestorm.co/p/1213de
+ e0-e90e-4893-9196-5cbf906e85ff/live?email=allincludedallexclusivellc%40pro
+ tonmail.com&key=facd9ee3c07a6d3e145d7d&s=77bd8062-b582-440b-942d-01bd61e3e
+ 167. This access link is personal\, so please don’t share it with anyone
+ . For an optimal experience\, we recommend using Google Chrome\, Firefox o
+ r Opera.
+SUMMARY:Airwallex Masterclass - Borderless Cards
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Borderless Cards are here to make managing employee and busines
+ s expenses as effortless and affordable as possible\, saving one company 4
+ 0 hours a month on admin and $4.5k annually.Join Anthony Musu...\nTo join 
+ the live event\, just click on this link https://app.livestorm.co/p/1213de
+ e0-e90e-4893-9196-5cbf906e85ff/live?email=allincludedallexclusivellc%40pro
+ tonmail.com&key=facd9ee3c07a6d3e145d7d&s=77bd8062-b582-440b-942d-01bd61e3e
+ 167. This access link is personal\, so please don’t share it with anyone
+ . For an optimal experience\, we recommend using Google Chrome\, Firefox o
+ r Opera.
+SUMMARY:Airwallex Masterclass - Borderless Cards
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT5M
+DESCRIPTION:Borderless Cards are here to make managing employee and busines
+ s expenses as effortless and affordable as possible\, saving one company 4
+ 0 hours a month on admin and $4.5k annually.Join Anthony Musu...\nTo join 
+ the live event\, just click on this link https://app.livestorm.co/p/1213de
+ e0-e90e-4893-9196-5cbf906e85ff/live?email=allincludedallexclusivellc%40pro
+ tonmail.com&key=facd9ee3c07a6d3e145d7d&s=77bd8062-b582-440b-942d-01bd61e3e
+ 167. This access link is personal\, so please don’t share it with anyone
+ . For an optimal experience\, we recommend using Google Chrome\, Firefox o
+ r Opera.
+SUMMARY:Airwallex Masterclass - Borderless Cards
+END:VALARM
+END:VEVENT
+END:VCALENDAR
